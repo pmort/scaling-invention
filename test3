@@ -1,0 +1,2 @@
+example33333.uber.com
+spring.datasource.url=${MYSQL_URL:jdbc:mysql://db-mysql.mduser010.svc.cluster.local:3306/petclinic}
